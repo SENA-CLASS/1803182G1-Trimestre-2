@@ -35,7 +35,7 @@ public class Enteros {
 		System.out.println("type: " + Integer.TYPE);
 		System.out.println("---------------------------------------------");
 		// tipo de dato long
-		long enteroLargo = 1005;
+		long enteroLargo = 10057867687L;// literal
 		System.out.println("valor: " + enteroLargo);
 		System.out.println("tamaño bit: " + Long.SIZE);
 		System.out.println("tamaño minimo: " + Long.MIN_VALUE);

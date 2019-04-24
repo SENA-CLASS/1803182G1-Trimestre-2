@@ -13,6 +13,7 @@ public class OperadoresAritmeticos {
 		System.out.println(r);
 		int e = (int)7/2;// trunc
 		
+		// incrementadores
 		int i=0;
 		i++; // i=i+1;
 		++i; // i=i+1;
