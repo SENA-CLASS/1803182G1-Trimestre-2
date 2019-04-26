@@ -10,8 +10,8 @@ public class Logicos {
 		System.out.println(5>2);
 		System.out.println(3<1);
 		System.out.println(3<=3);
-		System.out.println(1==1);
-		System.out.println(1!=1);
+		System.out.println(1 == 1);
+		System.out.println(1 != 1);
 		
 		// operadores logicos
 		System.out.println(2>1 && 5>1);// and
