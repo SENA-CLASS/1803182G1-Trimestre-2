@@ -10,23 +10,19 @@ public class Ejemplo02 {
 
         switch (b){
             case "uno":
-            case "UNO":{
+            case "UNO":
                 System.out.println(1);
                 break;
-            }
             case "dos":
-            case "DOS":{
+            case "DOS":
                 System.out.println(2);
                 break;
-            }
             case "tres":
-            case "TRES":{
+            case "TRES":
                 System.out.println(3);
                 break;
-            }
-            default: {
+            default:
                 System.out.println("no conozco ese numero");
-            }
         }
 
     }

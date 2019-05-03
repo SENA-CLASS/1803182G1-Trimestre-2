@@ -10,23 +10,19 @@ public class Ejemplo03 {
 
         switch (b){
             case 'a':
-            case 'A':{
+            case 'A':
                 System.out.println("es la A o a");
                 break;
-            }
             case 'b':
-            case 'B':{
+            case 'B':
                 System.out.println("es la B o b");
                 break;
-            }
             case 'o':
-            case 'O':{
+            case 'O':
                 System.out.println("es la O o o");
                 break;
-            }
-            default: {
+            default:
                 System.out.println("no conozco esa letra");
-            }
         }
     }
 }

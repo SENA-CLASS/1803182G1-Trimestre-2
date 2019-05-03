@@ -9,21 +9,17 @@ public class Ejemplo01 {
         a = teclado.nextInt();
 
         switch (a){
-            case 1:{
+            case 1:
                 System.out.println("uno");
                 break;
-            }
-            case 2:{
+            case 2:
                 System.out.println("dos");
                 break;
-            }
-            case 3:{
+            case 3:
                 System.out.println("tres");
                 break;
-            }
-            default: {
+            default:
                 System.out.println("no conozco ese numero");
-            }
         }
 
     }
