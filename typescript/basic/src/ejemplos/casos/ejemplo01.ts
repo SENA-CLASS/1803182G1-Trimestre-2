@@ -1,5 +1,7 @@
 let var12: number;
 
+let asdf : String;
+
 var12 = parseInt(prompt("digite el numero"));
 
 switch(var12){

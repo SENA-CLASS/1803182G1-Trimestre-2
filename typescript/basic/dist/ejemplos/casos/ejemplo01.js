@@ -1,4 +1,5 @@
 let var12;
+let asdf;
 var12 = parseInt(prompt("digite el numero"));
 switch (var12) {
     case 1: {
