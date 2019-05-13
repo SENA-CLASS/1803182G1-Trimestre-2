@@ -1,0 +1,9 @@
+
+(function(){
+    let variable: number;
+
+
+})();
+
+
+

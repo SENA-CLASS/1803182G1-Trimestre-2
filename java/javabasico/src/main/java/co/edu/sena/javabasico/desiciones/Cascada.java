@@ -10,7 +10,7 @@ public class Cascada {
         c = teclado.nextInt();
 
         if (c == 1) {
-            System.out.println("uno");
+            
         } else {
             if (c == 2) {
                 System.out.println("dos");
