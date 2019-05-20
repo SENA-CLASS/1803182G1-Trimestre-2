@@ -6,5 +6,8 @@ public class Ejemplo01 {
         Persona persona = new Persona();
         //Animal animal = new Animal();// no se puede instanciar por que animal es abstracta
         Animal animal = new Perro();
+        co.edu.sena.poo.ejemplo02atributos.Perro perro2 = new co.edu.sena.poo.ejemplo02atributos.Perro();
+
     }
+
 }
