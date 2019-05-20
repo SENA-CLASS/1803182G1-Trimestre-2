@@ -1,6 +1,6 @@
 package co.edu.sena.poo.ejemplo02atributos;
 
- class Perro {
+ public class Perro {
     private String sexo;
     public String color ;
     float precio ;
