@@ -1,7 +1,5 @@
 package co.edu.sena.javabasico.arreglos;
 
-import java.util.ArrayList;
-
 public class Ejemplo05 {
     public static void main(String[] args) {
         int [] a = {11,22,33,44,55,66,77,88};

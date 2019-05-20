@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Ejemplo04 {
     public static void main(String[] args) {
-        int fila = 2, columna =3;
+        int fila = 5; 
+        int columna =10;
         int [][] matriz = new int[fila][columna];
 
         Scanner teclado = new Scanner(System.in);
@@ -15,6 +16,7 @@ public class Ejemplo04 {
                 matriz[i][j]= teclado.nextInt();
             }
         }
+        teclado.close();
 
         for (int i = 0; i < fila; i++) {
             for (int j = 0; j < columna; j++) {
