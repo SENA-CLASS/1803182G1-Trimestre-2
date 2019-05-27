@@ -12,6 +12,8 @@ public class Ejemplo01 {
         Avioneta avioneta = new Avioneta();
         avioneta.prender();
 
+        Avion a1 = (Avion)avioneta;
+
 
 
     }
