@@ -23,8 +23,8 @@
 23. super(), super, this
 
 24. Polimorfismo 
-25. casting, autocasting
-26. Wrappers (boxing, unboxing, autounboxing)
+25. casting, autocasting (boxing, unboxing, autounboxing)
+26. Wrappers 
 27. API (Aplication program interface)
 28. Realiziacion
 29. Interfaces (Generalizacion, Implementación)
