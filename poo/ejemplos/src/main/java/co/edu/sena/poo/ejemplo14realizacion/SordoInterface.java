@@ -1,4 +1,7 @@
 package co.edu.sena.poo.ejemplo14realizacion;
 
-public class SordoInterface {
+public interface SordoInterface extends PersonaInterface {
+    void hablar();
+    void caminar();
+    void ver();
 }
