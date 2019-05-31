@@ -23,9 +23,9 @@
 23. super(), super, this
 24. Polimorfismo 
 25. casting, autocasting 
-
 26. Wrappers (boxing, unboxing, autounboxing)
 27. API (Aplication program interface)
+
 28. Realiziacion
 29. Interfaces (Generalizacion, Implementación)
 30. clases anidadas
