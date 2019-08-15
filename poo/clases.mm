@@ -131,7 +131,7 @@
 </node>
 </node>
 <node CREATED="1408132757324" ID="ID_49098097" MODIFIED="1408132761293" POSITION="left" TEXT="metodos">
-<node CREATED="1407960802786" FOLDED="true" ID="ID_1672468198" MODIFIED="1527075872396" TEXT="metodos o operaciones">
+<node CREATED="1407960802786" ID="ID_1672468198" MODIFIED="1560773196905" TEXT="metodos o operaciones">
 <node CREATED="1408476705838" ID="ID_175986790" MODIFIED="1467392423645" TEXT="notacion en UML">
 <node CREATED="1408476713032" ID="ID_466674097" MODIFIED="1408476715310" TEXT="[&lt;visibility&gt;] &lt;name&gt; &#x2018;(&#x2018; [&lt;parameter-list&gt;] &#x2018;)&#x2019; [&#x2018;:&#x2019; [&lt;return-type&gt;] [&#x2018;[&#x2018; &lt;multiplicity&gt; &#x2018;]&#x2019;] [&#x2018;{&#x2018; &lt;oper-property&gt; [&#x2018;,&#x2019; &lt;oper-property&gt;]* &#x2018;}&#x2019;]]"/>
 </node>

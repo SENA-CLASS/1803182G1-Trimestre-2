@@ -10,6 +10,7 @@ public class Ejemplo01 {
 
         Sordo sordo = new Sordo();
 
+
         Mudo mudo = new Mudo();
 
         Invalido invalido = new Invalido();
